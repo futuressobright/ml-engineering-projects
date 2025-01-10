@@ -11,7 +11,6 @@
 - Open commit window: Cmd + K
 - Push to GitHub: Cmd + Shift + K
 - Find file: Cmd + Shift + O
-- Open terminal: Alt + F12
 - Toggle file tree: Cmd + 1
 
 ## Git Actions
@@ -26,9 +25,8 @@ git checkout -b feature-name
 git pull origin main
 ```
 
-## Python Virtual Environment
+## Virtual Environment
 - PyCharm manages this automatically
-- All packages install to project venv
 - Requirements in requirements.txt
 
 ## Project Structure
@@ -50,8 +48,5 @@ src/
 
 ## When Stuck
 1. Check project checklist
-2. Look at progress.md
-3. Review error message
-4. Ask for help if stuck >30 min
-
-Keep this printed with your project checklist and workflow guide.
+2. Review error message
+3. Ask for help if stuck >30 min
